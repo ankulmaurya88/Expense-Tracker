@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class AuthConfig(AppConfig):
-    name = 'auth'
+    name = 'app.auth'
     label = 'my_custom_accounts'
