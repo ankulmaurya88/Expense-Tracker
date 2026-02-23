@@ -27,3 +27,22 @@ pnpm-debug.log*
 !.vscode/extensions.json
 .idea
 .DS_Store
+
+
+
+# --------------------------
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
